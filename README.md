@@ -16,6 +16,8 @@ I build at that intersection.
 
 ## ⚙️ Tech Stack
 
+<br/>
+
 <p align="center">
 <!-- OS -->
 <img src="https://img.shields.io/badge/Linux-1f2335?style=for-the-badge&logo=linux&logoColor=FCC624"/>
@@ -63,6 +65,7 @@ I'm passionate about **DevOps, infrastructure automation and cybersecurity**. I 
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=cboodnee&theme=transparent&stroke=F97316&ring=F97316&fire=F97316&sideLabels=F97316&dates=000000&sideNums=000000&currStreakNum=000000&currStreakLabel=F97316" />
 
+<br/>
 <br/>
 
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cboodnee&theme=calm)
